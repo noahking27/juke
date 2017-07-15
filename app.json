@@ -1,6 +1,5 @@
 {
   "expo": {
-    "entryPoint":"app/App",
     "sdkVersion": "18.0.0"
   }
 }
