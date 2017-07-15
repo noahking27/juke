@@ -46,3 +46,7 @@ apiKey.js
 
 # Ignore tern #
 .tern-project
+
+# expo #
+########
+.expo/*
