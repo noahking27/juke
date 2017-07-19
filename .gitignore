@@ -43,7 +43,7 @@ node_modules/*
 # ApiKeys #
 ##########
 apiKey.js
-
+config.js
 # Ignore tern #
 .tern-project
 
