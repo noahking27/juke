@@ -50,3 +50,7 @@ apiKey.js
 # expo #
 ########
 .expo/*
+
+# music api configs #
+#####################
+spotifyConfig.js
